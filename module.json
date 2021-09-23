@@ -14,5 +14,8 @@
 	"compatibleCoreVersion": "0.8.8",
 	"url": "https://github.com/cjfinnell/foundryvtt-img-updater",
 	"manifest": "https://github.com/cjfinnell/foundryvtt-img-updater/releases/latest/download/module.json",
-	"download": "https://github.com/cjfinnell/foundryvtt-img-updater/releases/latest/download/module.zip"
+	"download": "https://github.com/cjfinnell/foundryvtt-img-updater/releases/latest/download/module.zip",
+	"scripts": [
+		"scripts/update.js"
+	]
 }
