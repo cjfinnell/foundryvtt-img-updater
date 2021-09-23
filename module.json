@@ -1,0 +1,8 @@
+{
+	"name": "token-img-updater",
+	"title": "Token Image Updater",
+	"description": "A module that dynamically updates token image sources.",
+	"author": "cjfinnell",
+	"version": "0.0.1",
+	"minimumCoreVersion": "0.8.0"
+}
