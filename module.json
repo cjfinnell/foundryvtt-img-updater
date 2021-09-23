@@ -5,5 +5,6 @@
 	"author": "cjfinnell",
 	"version": "0.0.1",
 	"minimumCoreVersion": "0.8.0",
+	"compatibleCoreVersion": "0.8.8",
 	"url": "https://github.com/cjfinnell/foundryvtt-img-updater"
 }
